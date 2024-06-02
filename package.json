@@ -43,7 +43,7 @@
     "type": "git",
     "url": "git+https://github.com/9lan/react-native-ble.git"
   },
-  "author": "Andang Vijayanto Utomo <85025777+9lan@users.noreply.github.com> (https://github.com/9lan/react-native-ble)",
+  "author": "Andang Vijayanto Utomo <85025777+9lan@users.noreply.github.com> (https://github.com/9lan)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/9lan/react-native-ble/issues"
@@ -71,7 +71,7 @@
     "react-native-builder-bob": "^0.20.0",
     "release-it": "^15.0.0",
     "turbo": "^1.10.7",
-    "typescript": "^5.2.2"
+    "typescript": "5.1.6"
   },
   "resolutions": {
     "@types/react": "^18.2.44"
