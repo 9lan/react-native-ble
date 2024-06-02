@@ -12,6 +12,11 @@ or
 yarn add @9lan/react-native-ble
 ```
 
+### IOS
+```sh
+npx pod install
+```
+
 ## Usage
 
 ```ts
