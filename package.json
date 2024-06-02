@@ -1,6 +1,6 @@
 {
   "name": "@9lan/react-native-ble",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "react native module that manages the functionality of searching for bluetooth low energy (BLE) peripherals",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
